@@ -1,0 +1,40 @@
+.banner{
+    height: 45vh;
+    width: 100%;
+    background-color: pink;
+}
+.myface{
+    border-radius: 50%;
+}
+.uni{
+    width:250px;
+    height: 200px;
+    border-radius: 25%;
+}
+.skillsicon{
+    border-radius: 50%;
+}
+.custom-pink-btn {
+    background-color: pink !important;
+    border-color: pink !important;
+}
+
+.custom-pink-btn:hover {
+    background-color: #ff69b4 !important; /* Optional hover effect */
+    border-color: #ff69b4 !important;
+}
+#footer{
+    background-color: #7a1111;
+}
+.nav-link{
+    color: white!important;
+}
+.topname{
+    font-family: Lora;
+}
+.topunder{
+    font-family: Turret Road;
+}
+.zag-color{
+    color: #7a1111;
+}
